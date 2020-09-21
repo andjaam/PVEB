@@ -1,2473 +1,2485 @@
 [{
-        "word": "abeceda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ajfelova kula",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "alarmni",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "aligator",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "apatija",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "aplikacija",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "auto",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "autobus",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "automobilska nezgoda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "avion",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "baklja",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "balon",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "banana",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "beba",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bejzbol",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bes",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "biblija",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bicikl",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bikini",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bojica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "brada",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "brada",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "brod za krstarenje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "brodolom",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "buba",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bubamara",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bubanj",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bumbar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "bundeva",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "burrito",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "busiticket",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "cast",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "chuck norris",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "cirkuski šator",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "crkva",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "crna rupa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "cucla",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "cvet",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ćerka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "dalekovod",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "defekt",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "delfin",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "dezodorans",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "dima",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "dohvatiti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "doktore",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "drvo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "duga",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "dvorac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "džepni sat",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "fejsbuk",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "flamingo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "fotografija",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "frankenstein",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "fudbal",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gazirani napitak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gitara",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "glava",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "godine",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "golicati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "granica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gruda snega",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "grč",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "guitarbear",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "guma",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gumica za brisanje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gusar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "gutljaj",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hemijska olovka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hidrant",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hokej",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hotel",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hrana",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "hula",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "iglu",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "igra",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "igralište",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "istražiti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jabuka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jagoda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jaje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jastog",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jastuk",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jesti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jo-jo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "jog",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kajgana",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kaktus",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kalem",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kalendar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kamera",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kamion",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kanal",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kanta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kapetane",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "karmin",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kaubojski",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kavez",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kašika",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kengur",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kesa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kijaju",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kikiriki",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kip Slobode",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kivi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kičma",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kiša",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kišna kap",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "klatno",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "klavir",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kljucati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ključ",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "knjiga",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "koala",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kokice",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kolica za kupovinu",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "komarac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "konopac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kopča",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kornet sladoleda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kornjača",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "korov",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "korpa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kosa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kosilica za travu",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "košarka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krava",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kreda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krevetić",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krila",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krov",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krpa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "krug",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kružni tok",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kupatilo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "kupka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lakat",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lampa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lav",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lepak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lepak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "leptir",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "leteći tanjir",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "leteti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "leto",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "list",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lizalica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lični",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ljubav",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ljut",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lopata",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lopta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "luster",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lutka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "lutka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "magla",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "magnet",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "majmun",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "makaze",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mali",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mama",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "manžetna",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "maska",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "maslinovo ulje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mače",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mačka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mašina",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mećava",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "med",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "medenjaci",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "medicinska sestra",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "meduza",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "medved",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "megafon",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mehaničar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mehur",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "meka lopta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mermer",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "minivan",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "miris",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "miš",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mlazno zaostajanje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mleko",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "moja",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "monitor računara",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "morska zvezda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "motorna testera",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mozak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mozart",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mrlja",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "mrvice",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "muzika",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "nagrada",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "najlonke",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "naočare",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "naočare za sunce",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "način života",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "nezaposlen",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "neželjene pošte",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "nit",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "nivo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "niz",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "noć",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "noćna mora",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "nos",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "novac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "novine",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "obraz",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "obruč",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "odanost",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "odbojka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "odelo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "odugovlačenje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ogledalo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "olimpijske igre",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "oljuštiti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "opekotine od sunca",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "organizovati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "osmeh",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "osovina",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ostrvo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "osveta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "otrov",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "očna jabučica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "očnjak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pahuljica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "palačinka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "papirni tanjir",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "papuča",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "paradajz sos",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pas",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pasta za zube",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pasulj",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pauk",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "paukova mreža",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "perika",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pero",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pesak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "peskovnik",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "piće",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pidžame",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pigtails",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "piletina",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pilgram",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pinboard",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pingvin",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pita od tikve",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "plan",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "platna",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ples",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pljesak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pluća",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pojednostaviti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "policija",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "poljubac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pompezna",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pomračenje Sunca",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "popsicle",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "portfelj",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "posao",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "poskoka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "potkrovlje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "povrće",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pozivnica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "poštansko sanduče",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pranje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pregovarati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "preskočiti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "presto",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "priča",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "prskalica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "prsluk",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "prstohvat",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pseća kućica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ptice",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "pun mesec",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "punoglavac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "put",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "puter",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "putovanje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rT",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ram",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ravan",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "razmisli",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "računar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "reciklirati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rep",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "robot",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "roda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rok bend",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rolera",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rollerroad",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ruka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "rukavice",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sabljarka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sapun",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "saskuatch",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sat",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "satelit",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sedlo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "senka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "severni pol",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sigurnosni pojas",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "silueta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sirena",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sjedinjene Američke Države",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "skala",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "skejtbord",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "skok",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "skuplja",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sladoled",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "slavina",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "slon",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "smešno",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "soba",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sova",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "spajdermen",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "spavati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "srećan",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stena",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stepenice",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stetoskop",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stisnuti se",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stolar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stolica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "stoni tenis",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sunce",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sunčeva svetlost",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sušilica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "svemir",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "svetlo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "sving",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "svinja",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tahometar",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "taksi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "talas",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tačka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "teepee",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tegla",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tegovi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tekstura",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "telefon",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "teleskop",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "teretana",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tinejdžer",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "trepćući",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tricikl",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "truba",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "truba",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "turistički",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "tutu",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ubica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "udarac nogom",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "ulaznica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "umetnik",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "umutiti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "univerzitet",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "usta",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "uviti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "uvo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vatromet",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "veo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "veslo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vetrenjača",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vi-fi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vidi-vidi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vijača",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vijenac",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vink",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "violina",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "visoka stolica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "visoke štikle",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vosak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "voz",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vrata",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vreme prostor",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vruće",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "vulkan",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zadnje sedište",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zadovoljstvo",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zahvalnost",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zamak od peska",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zamka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zastava",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zaustaviti",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zdravica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zec",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zelena salata",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zemljotres",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zima",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zlatna ribica",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zmaj",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "značka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zombi",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zver",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "zvezda",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "Četkica za zube",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "časopis",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "četkom",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "čovek",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "čvor",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "šah",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "šal",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "šaputati",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "šargarepa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "šišanje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "školjka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "žaljenje",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "žirafa",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "živi pesak",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    },
-    {
-        "word": "žurka",
-        "chosen": 0,
-        "given": 0,
-        "hit": 0
-    }
+            "word": "abeceda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ajfelova kula",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "alarmni",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "aligator",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "apatija",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "aplikacija",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "auto",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "autobus",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "automobilska nezgoda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "avion",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "baklja",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "balon",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "banana",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "beba",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bejzbol",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bes",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "biblija",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bicikl",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bikini",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bojica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "brada",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "brada",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "brod za krstarenje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "brodolom",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "buba",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bubamara",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bubanj",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bumbar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "bundeva",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "burrito",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "busiticket",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "cast",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "chuck norris",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "cirkuski šator",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "crkva",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "crna rupa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "cucla",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "cvet",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ćerka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "dalekovod",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "defekt",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "delfin",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "dezodorans",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "dima",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "dohvatiti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "doktore",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "drvo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "duga",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "dvorac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "džepni sat",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "fejsbuk",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "flamingo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "fotografija",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "frankenstein",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "fudbal",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gazirani napitak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gitara",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "glava",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "godine",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "golicati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "granica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gruda snega",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "grč",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "guitarbear",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "guma",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gumica za brisanje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gusar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "gutljaj",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hemijska olovka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hidrant",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hokej",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hotel",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hrana",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "hula",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "iglu",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "igra",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "igralište",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "istražiti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jabuka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jagoda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jaje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jastog",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jastuk",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jesti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jo-jo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "jog",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kajgana",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kaktus",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kalem",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kalendar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kamera",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kamion",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kanal",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kanta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kapetane",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "karmin",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kaubojski",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kavez",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kašika",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kengur",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kesa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kijaju",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kikiriki",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kip Slobode",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kivi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kičma",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kiša",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kišna kap",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "klatno",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "klavir",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kljucati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ključ",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "knjiga",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "koala",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kokice",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kolica za kupovinu",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "komarac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "konopac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kopča",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kornet sladoleda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kornjača",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "korov",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "korpa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kosa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kosilica za travu",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "košarka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krava",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kreda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krevetić",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krila",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krov",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krpa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "krug",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kružni tok",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kupatilo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "kupka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lakat",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lampa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lav",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lepak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lepak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "leptir",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "leteći tanjir",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "leteti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "leto",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "list",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lizalica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lični",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ljubav",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ljut",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lopata",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lopta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "luster",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lutka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "lutka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "magla",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "magnet",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "majmun",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "makaze",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mali",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mama",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "manžetna",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "maska",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "maslinovo ulje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mače",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mačka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mašina",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mećava",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "med",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "medenjaci",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "medicinska sestra",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "meduza",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "medved",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "megafon",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mehaničar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mehur",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "meka lopta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mermer",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "minivan",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "miris",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "miš",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mlazno zaostajanje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mleko",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "moja",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "monitor računara",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "morska zvezda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "motorna testera",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mozak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mozart",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mrlja",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "mrvice",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "muzika",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "nagrada",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "najlonke",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "naočare",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "naočare za sunce",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "način života",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "nezaposlen",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "neželjene pošte",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "nit",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "nivo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "niz",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "noć",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "noćna mora",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "nos",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "novac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "novine",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "obraz",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "obruč",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "odanost",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "odbojka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "odelo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "odugovlačenje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ogledalo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "olimpijske igre",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "oljuštiti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "opekotine od sunca",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "organizovati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "osmeh",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "osovina",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ostrvo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "osveta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "otrov",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "očna jabučica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "očnjak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pahuljica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "palačinka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "papirni tanjir",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "papuča",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "paradajz sos",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pas",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pasta za zube",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pasulj",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pauk",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "paukova mreža",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "perika",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pero",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pesak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "peskovnik",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "piće",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pidžame",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pigtails",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "piletina",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pilgram",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pinboard",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pingvin",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pita od tikve",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "plan",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "platna",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ples",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pljesak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pluća",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pojednostaviti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "policija",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "poljubac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pompezna",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pomračenje Sunca",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "popsicle",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "portfelj",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "posao",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "poskoka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "potkrovlje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "povrće",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pozivnica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "poštansko sanduče",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pranje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pregovarati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "preskočiti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "presto",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "priča",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "prskalica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "prsluk",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "prstohvat",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pseća kućica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ptice",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "pun mesec",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "punoglavac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "put",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "puter",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "putovanje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rT",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ram",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ravan",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "razmisli",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "računar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "reciklirati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rep",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "robot",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "roda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rok bend",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rolera",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rollerroad",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ruka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "rukavice",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sabljarka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sapun",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "saskuatch",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sat",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "satelit",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sedlo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "senka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "severni pol",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sigurnosni pojas",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "silueta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sirena",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sjedinjene Američke Države",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "skala",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "skejtbord",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "skok",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "skuplja",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sladoled",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "slavina",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "slon",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "smešno",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "soba",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sova",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "spajdermen",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "spavati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "srećan",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stena",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stepenice",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stetoskop",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stisnuti se",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stolar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stolica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "stoni tenis",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sunce",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sunčeva svetlost",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sušilica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "svemir",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "svetlo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "sving",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "svinja",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tahometar",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "taksi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "talas",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tačka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "teepee",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tegla",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tegovi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tekstura",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "telefon",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "teleskop",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "teretana",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tinejdžer",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "trepćući",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tricikl",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "truba",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "truba",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "turistički",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "tutu",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ubica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "udarac nogom",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "ulaznica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "umetnik",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "umutiti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "univerzitet",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "usta",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "uviti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "uvo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vatromet",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "veo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "veslo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vetrenjača",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vi-fi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vidi-vidi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vijača",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vijenac",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vink",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "violina",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "visoka stolica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "visoke štikle",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vosak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "voz",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vrata",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vreme prostor",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vruće",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "vulkan",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zadnje sedište",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zadovoljstvo",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zahvalnost",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zamak od peska",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zamka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zastava",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zaustaviti",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zdravica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zec",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zelena salata",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zemljotres",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zima",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zlatna ribica",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zmaj",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "značka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zombi",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zver",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "zvezda",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "Četkica za zube",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "časopis",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "četkom",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "čovek",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "čvor",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "šah",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "šal",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "šaputati",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "šargarepa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "šišanje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "školjka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "žaljenje",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "žirafa",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "živi pesak",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "žurka",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "žurkA",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            },
+{
+            "word": "žurkAA",
+            "chosen": 0,
+            "given": 0,
+            "hit": 0        
+            }
 ]
