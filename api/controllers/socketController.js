@@ -17,6 +17,7 @@ module.exports = class SocketController {
      * @private
      */
     static rooms = [];
+    static bestPlayers = [];
 
     /**
      * @description Map that contains all channel ids and their associated sockets
@@ -291,8 +292,21 @@ module.exports = class SocketController {
             'points' : bestPlayer.points
         }));
         SocketController.cleanRoom(code);
+        
+        /**************************************/
+        if (SocketController.bestPlayers.length == 0 || SocketController.bestPlayers.length < 5) {
+            SocketController.bestPlayers.push(bestPlayer);
+            SocketController.bestPlayers.sort();
+        }
+        else {   
+            if (SocketController.bestPlayers[4].points < bestPlayer.points) {
+                SocketController.bestPlayers[4] = bestPlayer;
+                SocketController.bestPlayers.sort();
+            }
+        }
+        SocketController.bestPlayers.forEach(p => console.log(p.name));
     }
-
+    
 
     /**
      * @description Deleting referencing on room cause server is going to work infinitely (possibly).

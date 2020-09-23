@@ -133,6 +133,11 @@ export class ChatService extends HttpErrorHandler implements OnDestroy {
         });
     }
 
+    /**************************************/
+    public getBestPlayers(): Observable<Player[]> {
+        return this.http.get<Player[]>(this.url + '/hallOfFame');
+    }
+    
 
     get getPlayerDrawing() {
         return this.whoDraws;

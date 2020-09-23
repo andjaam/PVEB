@@ -78,6 +78,18 @@ router.get("/getWords/:idSobe", (req, res) => {
     }
 });
 
+/**************************************/
+router.get("/hallOfFame", (req, res, next) => {
+    let array = SocketController.bestPlayers;
+    try{
+        res.status(200).json(array);
+    }
+    catch(error) {
+        next(error);
+    }
+});
+
+
 /**
  * @description
  * route for delivering data for users in private with params_id 
