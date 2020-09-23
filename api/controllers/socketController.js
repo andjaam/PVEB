@@ -296,12 +296,12 @@ module.exports = class SocketController {
         /**************************************/
         if (SocketController.bestPlayers.length == 0 || SocketController.bestPlayers.length < 5) {
             SocketController.bestPlayers.push(bestPlayer);
-            SocketController.bestPlayers.sort();
+            SocketController.bestPlayers.sort((a, b) => b.points - a.points);
         }
         else {   
             if (SocketController.bestPlayers[4].points < bestPlayer.points) {
                 SocketController.bestPlayers[4] = bestPlayer;
-                SocketController.bestPlayers.sort();
+                SocketController.bestPlayers.sort((a, b) => b.points - a.points);
             }
         }
         SocketController.bestPlayers.forEach(p => console.log(p.name));
