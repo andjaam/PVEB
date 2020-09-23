@@ -44,7 +44,8 @@ module.exports = class Controller {
         let { id, duration, rounds, language } = req.body;
         let room = SocketController.rooms.find(value => (value.roomId === id));
         if (room !== undefined) {
-            room.duration = "15";
+            //room.duration = "15";
+            room.duration = duration;
             room.numberOfRounds = rounds;
             room.language = language;
             res.status(201).json(id);
