@@ -1,4 +1,4 @@
-## Škrabo
+# Škrabo
 
 Igrač crta odabranu reč dok ostali igrači pogađaju u četu sve dok se njihova napisana reč ne poklopi sa odabranom reči koja se crta. Igrači menjaju poziciju ko crta i skupljaju poene u odnosu na to koliko su brzo pogodili.
 
